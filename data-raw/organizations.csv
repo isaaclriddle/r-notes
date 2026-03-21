@@ -1,0 +1,481 @@
+id,name,sub_type,place,type
+AberdUn,University of Aberdeen,college|school,"Aberdeen, Aberdeenshire, Scotland",education
+AbingSch,Abingdon School,grammarschool|school,"Abingdon-on-Thames, Oxfordshire, England-",education
+AckworSch,"Ackworth School, Yorkshire",dissentingacademy|school,"Ackworth, Yorkshire, England",education
+AddiscCol,"Royal Indian Military College, Addiscombe",military|school,"Addiscombe, Surrey, England",education
+AllSoulsOx,"All Souls College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+ApplebyGS,Appleby grammar school,grammarschool|school,"Appleby, Westmorland, England",education
+BalliOx,"Balliol College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+BathGS,Bath grammar school,grammarschool|school,"Bath, Somersetshire, England",education
+BlunTiv,"Blundell's School, Tiverton",grammarschool|school,"Tiverton, Devonshire, England",education
+BostonLatin,Boston Latin School,grammarschool|school,"Boston, Massachusetts",education
+BrasOx,"Brasenose College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+BrisBapAc,Bristol Baptist College,dissentingacademy|school,"Bristol, Gloucestershire, England",education
+BristolGS,Bristol Grammar School,grammarschool|school,"Bristol, Gloucestershire, England",education
+BuryStEd,Bury St Edmunds grammar school,grammarschool|school,"Bury St Edmunds, Suffolk, England",education
+Cam,Cambridge University,grammarschool|school,"London, England",education
+CharterSch,Charterhouse School,grammarschool|school,"London, England",education
+CheamSch,Cheam School,grammarschool|school,"Cheam, Surrey, England",education
+ChChOx,"Christ Church, Oxford",college|school,"Oxford, Oxfordshire, England",education
+ChigwSch,Chigwell School,grammarschool|school,"Chigwell, Essex, England",education
+ChrCam,"Christ's College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+ChrHosp,Christ's Hospital,grammarschool|school,"London, England",education
+ClareCam,"Clare College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+ColumbCol,Columbia College,college|school,"New York, New York",education
+CorChCam,"Corpus Christi College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+CorChOx,"Corpus Christi College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+DartmCol,Dartmouth College,college|school,"Hanover, New Hampshire",education
+DaventAc,Daventry Academy,dissentingacademy|school,"Daventry, Northamptonshire, England",education
+DerbyGS,Derby grammar school,grammarschool|school,"Derby, Derbyshire, England",education
+DouaiCol,"English College, Douai",college|school,"Douai, France",education
+DowCam,"Downing College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+DurhamGS,Durham grammar school,grammarschool|school,"Durham, County Durham, England",education
+EdinAc,Edinburgh Academy,grammarschool|school,"Edinburgh, Scotland",education
+EdinHS,Edinburgh high school,grammarschool|school,"Edinburgh, Scotland",education
+EdinUn,Edinburgh University,college|school,"Edinburgh, Scotland",education
+EmmCam,"Emmanuel College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+EnfielGS,Enfield grammar school,grammarschool|school,"Enfield, Middlesex, England",education
+EtonCol,Eton College,grammarschool|school,"Eton, Berkshire, England",education
+ExeterGS,Exeter grammar school,grammarschool|school,"Exeter, Devonshire, England",education
+ExetOx,"Exeter College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+FelstedSch,Felsted School,grammarschool|school,"Felsted, Essex, England",education
+GlasgGS,Glasgow grammar school,grammarschool|school,"Glasgow, Lanarkshire, Scotland",education
+GlasgUn,Glasgow University,college|school,"Glasgow, Lanarkshire, Scotland",education
+GonvCam,"Gonville and Caius College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+GosportAc,Gosport Naval Academy,military|school,"Gosport, Hampshire, England",education
+GraysInn,Gray's Inn,law|school,"London, England",education
+GreenwichAc,Greenwich Academy,grammarschool|school,"Greenwich, Kent, England",education
+HackneyNC,"New College, Hackney",dissentingacademy|school,"Hackney, Middlesex, England",education
+HaileybuCol,"East India College, Haileybury",college|school,"Haileybury, Hertfordshire, England",education
+HarrowSch,Harrow School,grammarschool|school,"Harrow, Middlesex, England",education
+HartHaOx,"Hart Hall, Oxford",college|school,"Oxford, Oxfordshire, England",education
+HarvardCol,Harvard College,college|school,"Boston, Massachusetts",education
+HawksheadGS,Hawkshead grammar school,grammarschool|school,"Hawkshead, Lancashire, England",education
+HertOx,"Hertford College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+HiWycoCol,"Royal Military College, High Wycombe",military|school,"High Wycombe, Buckinghamshire, England",education
+HomertonCol,"Independent College, Homerton",dissentingacademy|school,"Homerton, Middlesex, England",education
+HoxtonAc,Hoxton Academy,dissentingacademy|school,"Hoxton, Middlesex, England",education
+HullGS,Hull grammar school,grammarschool|school,"Hull, Yorkshire, England",education
+HydeAbbey,"Hyde Abbey, Winchester",grammarschool|school,"Winchester, Hampshire, England",education
+InnerTemp,Inner Temple,law|school,"London, England",education
+JesusCam,"Jesus College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+JesusOx,"Jesus College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+KingEdwBirm,"King Edward's School, Birmingham",grammarschool|school,"Birmingham, Warwickshire, England",education
+KingsAb,"King's College, Aberdeen",college|school,"Aberdeen, Aberdeenshire, Scotland",education
+KingsCam,"King's College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+KingsCanter,"King's School, Canterbury",grammarschool|school,"Canterbury, Kent, England",education
+KingsLynnGS,King's Lynn grammar school,grammarschool|school,"King's Lynn, Norfolk, England",education
+KingsLon,"King's College, London",college|school,"London, England",education
+KingstonGS,Kingston grammar school,grammarschool|school,"Kingston Upon Thames, Surrey, England",education
+KingswdSch,Kingswood School,dissentingacademy|school,"Bristol, Gloucestershire, England",education
+LeedsGS,Leeds grammar school,grammarschool|school,"Leeds, Yorkshire, England",education
+LichfGS,Lichfield grammar school,grammarschool|school,"Lichfield, Staffordshire, England",education
+LincInn,Lincoln's Inn,law|school,"London, England",education
+LincOx,"Lincoln College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+LiskrdGS,Liskeard grammar school,grammarschool|school,"Liskeard, Cornwall, England",education
+LouthGS,Louth grammar school,grammarschool|school,"Louth, Lincolnshire, England",education
+MacclGS,Macclesfield grammar school,grammarschool|school,"Macclesfield, Cheshire, England",education
+MagdCam,"Magdalene College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+MagHallOxf,"Magdalen Hall, Oxford",college|school,"Oxford, Oxfordshire, England",education
+MagdOx,"Magdalen College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+ManchCol,"Manchester College, York",dissentingacademy|school,"York, Yorkshire, England",education
+ManchGS,Manchester grammar school,grammarschool|school,"Manchester, Lancashire, England",education
+MarischalCol,"Marischal College, Aberdeen",college|school,"Aberdeen, Aberdeenshire, Scotland",education
+MarlboroGS,Marlborough grammar school,grammarschool|school,"Marlborough, Wiltshire, England",education
+MarlowRMC,"Royal Military College, Great Marlow",military|school,"Great Marlow, Buckinghamshire, England",education
+MaynooCol,"St Patrick's College, Maynooth",college|school,"Maynooth, County Kildare, Ireland",education
+MerTaylor,Merchant Taylors' School,grammarschool|school,"London, England",education
+MertOx,"Merton College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+MiddleTemp,Middle Temple,school,"London, England",education
+MileEndAc,Mile End Academy,dissentingacademy|school,"Mile End, Middlesex, England",education
+NewcastleGS,Newcastle grammar school,grammarschool|school,"Newcastle Upon Tyne, Northumberland, England",education
+NewCollOx,"New College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+NewcomHack,"Newcome's school, Hackney",grammarschool|school,"Hackney, Middlesex, England",education
+NorwichGS,Norwich grammar school,grammarschool|school,"Norwich, Norfolk, England",education
+OrielOx,"Oriel College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+OscottCol,"St Mary's College, Oscott",college|school,"Oscott, Warwickshire, England",education
+Oxf,Oxford University,school,"Oxford, Oxfordshire, England",education
+PalgraSch,Palgrave School,dissentingacademy|school,"Palgrave, Suffolk, England",education
+PembCam,"Pembroke College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+PembOx,"Pembroke College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+PeterCam,"Peterhouse, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+PlymGS,Plymouth grammar school,grammarschool|school,"Plymouth, Devonshire, England",education
+PortsNav,"Royal Naval Academy, Portsmouth",military|school,"Portsmouth, Hampshire, England",education
+PrincUn,College of New Jersey (Princeton University),college|school,"Princeton, New Jersey",education
+QueenCam,"Queens' College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+QueenOx,"Queen's College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+ReadingSch,Reading School,grammarschool|school,"Reading, Berkshire, England",education
+ReptonGS,Repton School,grammarschool|school,"Repton, Derbyshire, England",education
+RichmondGS,Richmond grammar school,grammarschool|school,"Richmond, Yorkshire, England",education
+RiponGS,Ripon grammar school,grammarschool|school,"Ripon, Yorkshire, England",education
+RoyalAcSc,Royal Academy Schools,finearts|school,"London, England",education
+RugbySch,Rugby School,grammarschool|school,"Rugby, Warwickshire, England",education
+SandhurstAc,"Royal Military Academy, Sandhurst",military|school,"Sandhurst, Berkshire, England",education
+SaWhyteSch,"Samuel Whyte's School, Dublin",grammarschool|school,"Dublin, Ireland",education
+SedbergGS,Sedbergh School,grammarschool|school,"Sedbergh, Yorkshire, England",education
+SherbSch,Sherborne School,grammarschool|school,"Sherborne, Dorsetshire, England",education
+ShrewsbGS,Shrewsbury School,grammarschool|school,"Shrewsbury, Shropshire, England",education
+SidnCam,"Sidney Sussex College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+StAndrew,St Andrews University,college|school,NA,education
+StBeesSch,St Bees School,grammarschool|school,"St Bees, Cumberland, England",education
+StAlbOx,"St Alban Hall, Oxford",college|school,"Oxford, Oxfordshire, England",education
+StCaCam,"St Catharine's College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+StEdmOx,"St Edmund Hall, Oxford",college|school,"Oxford, Oxfordshire, England",education
+StJoCam,"St John's College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+StJoOx,"St John's College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+StMaryOx,"St Mary Hall, Oxford",college|school,"Oxford, Oxfordshire, England",education
+StOmerCol,St Omers College,college|school,"St Omers, Belgium",education
+StPaul,St Paul's School,grammarschool|school,"London, England",education
+StanmSch,Stanmore School,grammarschool|school,"Stanmore, Middlesex, England",education
+StonyhCol,Stonyhurst College,college|school,"Stonyhurst, Lancashire, England",education
+SunburySch,Sunbury School,grammarschool|school,"Sunbury, Berkshire, England",education
+SutColdGS,Sutton Coldfield grammar school,grammarschool|school,"Sutton Coldfield, Warwickshire, England",education
+TonbrSch,Tonbridge School,grammarschool|school,"Tonbridge, Kent, England",education
+TrinCam,"Trinity College, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+TrinDub,"Trinity College, Dublin",college|school,"Dublin, Ireland",education
+TrinHaCam,"Trinity Hall, Cambridge",college|school,"Cambridge, Cambridgeshire, England",education
+TrinOx,"Trinity College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+TruroGS,Truro grammar school,grammarschool|school,"Truro, Cornwall, England",education
+UnLondon,University of London,college|school,"London, England",education
+UnivOx,"University College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+UnPenn,University of Pennsylvania,college|school,"Philadelphia, Pennsylvania",education
+WadhOx,"Wadham College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+WakefdGS,Wakefield grammar school,grammarschool|school,"Wakefield, Yorkshire, England",education
+WarringtAc,Warrington Academy,dissentingacademy|school,"Warrington, Lancashire, England",education
+WestmSch,Westminster School,grammarschool|school,"London, England",education
+WmMaryCol,College of William and Mary,college|school,"Williamsburg, Virginia",education
+WinchCol,Winchester College,grammarschool|school,"Winchester, Hampshire, England",education
+WoolwAc,"Royal Military Academy, Woolwich",military|school,"Woolwich, Kent, England",education
+WorcOxf,"Worcester College, Oxford",college|school,"Oxford, Oxfordshire, England",education
+YaleCol,Yale College,college|school,"New Haven, Connecticut",education
+Adventurer1752,"The Adventurer (London, 1752-1754)",essay|publication,"London, England",publications
+AckermannJuv1830,"Ackermann's Juvenile Forget Me Not (London, 1830-1832)",literary annual|publication,"London, England",publications
+Ainsworths,"Ainsworth's Magazine (London, 1842-1854)",magazine|publication,"London, England",publications
+Amethyst1832,"The Amethyst, or Christian's Annual (London, 1832-1834)",literary annual|publication,"London, England",publications
+Amulet1826,"The Amulet, or Christian and Literary Remembrancer (London, 1826-1836)",literary annual|publication,"London, England",publications
+Anniversary1829,"The Anniversary (London, 1829)",literary annual|publication,"London, England",publications
+AntiJacobinMag,"The Anti-Jacobin (London, 1797-1798)",magazine|publication,"London, England",publications
+AntiJacobinRev,"The Anti-Jacobin Review and Magazine (London, 1798-1821)",magazine|publication,"London, England",publications
+AthenianLetters,"Athenian Letters (Cambridge, 1741-1743)",essay|publication,"Cambridge, Cambridgeshire, England",publications
+AuroraBorealis,"The Aurora Borealis: a Literary Annual (Newcastle-upon-Tyne, 1833)",literary annual|publication,"Newcastle Upon Tyne, Northumberland, England",publications
+BentleysMisc,"Bentley's Miscellany (London, 1837-1868)",magazine|publication,"London, England",publications
+Bijou1828,"The Bijou, or Annual of Literature and the Arts (London, 1828-1830)",literary annual|publication,"London, England",publications
+Blackwoods,"Blackwood's Edinburgh Magazine (Edinburgh, 1817-1905)",magazine|publication,"Edinburgh, Scotland",publications
+BritishCritic,"The British Critic (London, 1793-1843)",publication|review,"London, England",publications
+BritishForRev,"The British and Foreign Review (London, 1835-1844)",publication|review,"London, England",publications
+BritishQuarterly,"The British Quarterly Review (London, 1845-1886)",publication|review,"London, England",publications
+Cabinet1807,"The Cabinet, or, Monthly Report of Polite Literature (London, 1807-1808)",magazine|publication,"London, England",publications
+Champ1814,"The Champion (London, 1814-1822)",magazine|publication,"London, England",publications
+ChristmasBox,"The Christmas Box; an Annual for Children (London, 1828-1829)",literary annual|publication,"London, England",publications
+ThHoodComic1845,"The Comic Annual (London, 1830-39, 1842)",literary annual|publication,"London, England",publications
+ComicOffering,"The Comic Offering, or, Ladies' Melange of Literary Mirth (London, 1831-1835)",literary annual|publication,"London, England",publications
+Connoisseur1756,"The Connoisseur (London, 1754-1756)",essay|publication,"London, England",publications
+ContemporaryRev,"The Contemporary Review (London, 1866-)",publication|review,"London, England",publications
+CornhillMag,"The Cornhill Magazine (London, 1860-1939, 1944-46)",magazine|publication,"London, England",publications
+CourtMag,"The Court Magazine (London, 1832-1838)",publication,"London, England",publications
+CriticalRev,"The Critical Review, or, Annals of Literature (London, 1756-1817)",publication|review,"London, England",publications
+Diadem1838,"The Diadem: a Book for the Boudoir (London, 1838)",literary annual|publication,"London, England",publications
+DodsleyCol,"Dodsley's Collection of Poems by Several Hands (London, 1748-1758)",anthology|publication,"London, England",publications
+DublinRev,"The Dublin Review (Dublin, 1836-)",publication|review,"Dublin, Ireland",publications
+DublinUniMag,"The Dublin University Magazine (Dublin, 1833-1877)",magazine|publication,"Dublin, Ireland",publications
+EclecticRev,"The Eclectic Review (London, 1805-1868)",publication|review,"London, England",publications
+EdinburghRev,"The Edinburgh Review (Edinburgh, 1802-1929)",publication|review,"Edinburgh, Scotland",publications
+EngRev1783,"The English Review (London, 1783-1796)",publication|review,"London, England",publications
+Etonian1820,"The Etonian (Eton, 1820-1821)",magazine|publication,"Eton, Berkshire, England",publications
+EuropeanMag,"The European Magazine (London, 1782-1826)",magazine|publication,"London, England",publications
+FindensTableaux,"Finden's Tableaux (London, 1837 to 1844)",literary annual|publication,"London, England",publications
+FishersDrawingRoom,"Fisher's Drawing Room Scrap Book (London, 1832-1854)",literary annual|publication,"London, England",publications
+ForeignQuarterly,"The Foreign Quarterly Review (London, 1827-1846)",publication|review,"London, England",publications
+ForeignReview,"The Foreign Review (London, 1828-1830)",publication|review,"London, England",publications
+ForgetMeNot,"Forget Me Not (London, 1823-1847)",literary annual|publication,"London, England",publications
+FortnightlyRev,"Fortnightly Review (London, 1865-1954)",publication|review,"London, England",publications
+FrasersMag,"Fraser's Magazine (London, 1830-1869)",magazine|publication,"London, England",publications
+FreeThinker,"The Free-Thinker (London, 1718-1721)",essay|publication,"London, England",publications
+FriendshipsOffer,"Friendship's Offering (London, 1824-1844)",literary annual|publication,"London, England",publications
+Gem1829,"The Gem, a Literary Annual (London, 1829-1832)",literary annual|publication,"London, England",publications
+GentlemansMag,"The Gentleman's Magazine (London, 1731-1907)",magazine|publication,"London, England",publications
+Guardian1713,"The Guardian (London, 1713)",essay|publication,"London, England",publications
+BookBeauty,"Heath’s Book of Beauty (London, 1833-1849)",literary annual|publication,"London, England",publications
+Iris1830,"The Iris; a Literary and Religious Offering (London, 1831-1832)",literary annual|publication,"London, England",publications
+Janus1826,"Janus; or, the Edinburgh Literary Almanack (Edinburgh, 1826)",literary annual|publication,"Edinburgh, Scotland",publications
+JuvenileForget,"The Juvenile Forget Me Not (London, 1829-1838)",literary annual|publication,"London, England",publications
+JuvenileKeepsake,"The Juvenile Keepsake (London, 1829-1830)",literary annual|publication,"London, England",publications
+Keepsake1828,"The Keepsake (London, 1828-1857)",literary annual|publication,"London, England",publications
+KnightsQuarterly,"Knight's Quarterly Magazine (London, 1823-1825)",magazine|publication,"London, England",publications
+LiteraryChron,"The Literary Chronicle and Weekly Review (London, 1819-1828)",magazine|publication,"London, England",publications
+LitSouvenir,"The Literary Souvenir (London, 1825-1837)",literary annual|publication,"London, England",publications
+LondonMag,"The London Magazine (London, 1820-1829)",magazine|publication,"London, England",publications
+LondonRev1829,"London Review (London, 1829)",publication|review,"London, England",publications
+MacmillansMag,"Macmillan's Magazine (London, 1859-1907)",magazine|publication,"London, England",publications
+MiscObser,"Miscellaneous Observations upon Authors (London, 1731)",essay|publication,"London, England",publications
+MonthlyChron,"Monthly Chronicle (London, 1838-1841)",magazine|publication,"London, England",publications
+MoMirror,"The Monthly Mirror (London, 1795-1811)",magazine|publication,"London, England",publications
+MonthlyMag1796,"The Monthly Magazine (London, 1796-1843)",magazine|publication,"London, England",publications
+MonthlyRev,"The Monthly Review (London, 1749-1844)",publication|review,"London, England",publications
+Museum1746,"Museum; or, the Literary and Historical Register (London, 1746-1747)",Magazine|publication,"London, England",publications
+NationalRev,"The National Review (London, 1855-1864)",publication|review,"London, England",publications
+NewMonthly,"New Monthly Magazine (London, 1814-1881)",magazine|publication,"London, England",publications
+NewRev,"New Review (London, 1889-98)",publication|review,"London, England",publications
+NewYearsGift1829,"The New Year's Gift and Juvenile Souvenir (London, 1829-1836)",literary annual|publication,"London, England",publications
+NineteenthCent,"The Nineteenth Century (London, 1870-1900)",magazine|publication,"London, England",publications
+NorthBritishRev,"The North British Review (Edinburgh, 1844-1871)",publication|review,"Edinburgh, Scotland",publications
+PledgeFriendship,"The Pledge of Friendship (London, 1826-1828)",literary annual|publication,"London, England",publications
+PoeticalAmuse,"Poetical Amusements at a Villa Near Bath (Bath, 1775-1781)",anthology|publication,NA,publications
+ProspectiveRev,"The Prospective Review (London, 1845-1854)",publication|review,"London, England",publications
+QuarterlyRev,"The Quarterly Review (London, 1809-1967)",publication|review,"London, England",publications
+Remembrance1831,"The Remembrance (London, 1831-1843)",literary annual|publication,"London, England",publications
+RetroRev,"The Retrospective Review (London, 1820-1828)",publication|review,"London, England",publications
+Satirist1807,"The Satirist, or, Monthly Meteor (London, 1812-1814)",magazine|publication,"London, England",publications
+Spectator1711,"The Spectator (London, 1711-12, 1714)",essay|publication,"London, England",publications
+StJamesChron,"St James's Chronicle (London, 1762-1866)",newspaper|publication,"London, England",publications
+Taits1832,"Tait's Edinburgh Magazine (Edinburgh, 1832-1861)",magazine|publication,"Edinburgh, Scotland",publications
+Tatler1709,"The Tatler (London, 1709-1711)",essay|publication,"London, England",publications
+TempleBar,"Temple Bar (London, 1860-1906)",magazine|publication,"London, England",publications
+UniverHist,"An Universal History (London, 1736-1744)",anthology|publication,"London, England",publications
+UniverSpec1728,"Universal Spectator and Weekly Journal (London, 1728-1746)",magazine|publication,"London, England",publications
+UniverVisit1756,"Universal Visitor and Memorialist (London, 1756)",magazine|publication,"London, England",publications
+WestminsterRev,"The Westminster Review (London, 1824-1914)",publication|review,"London, England",publications
+WintersWreath,"The Winter's Wreath (London, 1828-1832)",literary annual|publication,"London, England",publications
+World1753,"The World (London, 1753-1756)",essay|publication,"London, England",publications
+OrdBath,Order of the Bath,chivalric order,England,orders
+OrdGarter,Order of the Garter,chivalric order,England,orders
+OrdStPat,Order of St Patrick,chivalric order,Ireland,orders
+OrdThistle,Order of the Thistle,chivalric order,Scotland,orders
+AlmacksPatr,Lady Patronesses of Almack's,directors,"London, England",groups
+QueenStAc,"Academy in Great Queen Street (London, 1711-1720)",academy|finearts,"London, England",groups
+AfricanAssoc,"African Association (London, 1788-1831)",learnedsociety|travel,"London, England",groups
+AnalytSoc,"Analytical Society (Cambridge, 1812-1813)",academic|debatingsociety,"Cambridge, Cambridgeshire, England",groups
+Ancients1824,"Ancients (London, ca. 1824-ca. 1835)",finearts|peergroup,"London, England",groups
+AntiSlaveSoc,"Anti-Slavery Society (London, 1823–1833)",philanthropicsociety|politics,"London, England",groups
+AsiaticSoc,"The Asiatic Society (Calcutta, 1784-)",learnedsociety|travel,"Calcutta, India",groups
+AskesianSoc,"Askesian Society (London, 1796-1807)",debatingsociety|science,"London, England",groups
+AssocArtists,"Associated Artists in Water Colours (London, 1807-1812)",academy|finearts,"London, England",groups
+AstroSoc1820,"Astronomical Society of London (London, 1820-1831)",learnedsociety|science,"London, England",groups
+AthenaClub,"Athenaeum Club (London, 1824-)",socialclub,"London, England",groups
+AthenSocEdin,"Athenian Society (Edinburgh, 1719-1720)",literature|socialclub,"Edinburgh, Scotland",groups
+AtticChest,Attic Chest (London 1808-1818),literature|socialclub,"London, England",groups
+AurelianSoc,"Aurelian Society (London 1738-1748, 1762-1767)",learnedsociety|science,"London, England",groups
+BankEngland,"Bank of England: directors (London, 1694-)",directors,"London, England",groups
+BannatyneClub,"Bannatyne Club (Edinburgh, 1823-1861)",learnedsociety|literature,"Edinburgh, Scotland",groups
+BeefsteakClub,"Sublime Society of Beefsteaks (London, 1736-1860s)",diningclub,"London, England",groups
+BengalClub,"Bengal Club (Calcutta, 1827-)",socialclub|travel,"Calcutta, India",groups
+BennsClub,"Benn's Club (London, 1740s-50s)",politics|socialclub,"London, England",groups
+BillRightsSoc,"Bill of Rights Society (London, 1769–1775)",politicalsociety|politics,"London, England",groups
+BirminghamPolUn,"Birmingham Political Union (Birmingham, 1829–1839)",politicalsociety|politics,"Birmingham, Warwickshire, England",groups
+BluestockCir,"Bluestocking Circle (London, eighteenth century)",literature|peergroup,"London, England",groups
+BooksellersClub,"Booksellers' Dining Club (London, 1760s-1790s)",diningclub|literature,"London, England",groups
+BoydellEngr,"John Boydell engravers (London, ca. 1760-ca. 1804)",finearts|peergroup,"London, England",groups
+BoydellGall,"Boydell Shakespeare Gallery (London, 1789-1803)",finearts|peergroup,"London, England",groups
+BrazenSoc,"Brazen Nose Society (Stamford, Lincolnshire, 1736-1740s)",learnedsociety|science,"Spalding, Lincolnshire, England",groups
+BristolSch,"Bristol School of Artists (Bristol, ca. 1810s-ca. 1830s)",finearts|peergroup,"Bristol, Gloucestershire, England",groups
+BritishClub,"British Club (Paris, 1792-1793)",diningclub|politics,"Paris, France",groups
+BritMuOff,"British Museum: officers (London, 1753-)",finearts|literature|peergroup|science,"London, England",groups
+BritMuTrust,"British Museum: trustees (London, 1753-)",directors|finearts|literature|science,"London, England",groups
+BrooksClub,"Brooks's Club (London, 1762-)",politics|socialclub,"London, England",groups
+CamApostles,"Cambridge Apostles (Cambridge, 1820-)",academic|debatingsociety,"Cambridge, Cambridgeshire, England",groups
+CamPhlSoc,"Cambridge Philosophical Society (Cambridge, 1819-)",academic|debatingsociety|science,"Cambridge, Cambridgeshire, England",groups
+CapeClub1763,"Cape Club (Edinburgh, 1763-)",socialclub,"Edinburgh, Scotland",groups
+CarltonClub,"Carlton Club (London, 1832-)",politics|socialclub,"London, England",groups
+CatoStConsp,"Cato Street Conspiracy (London, 1820)",peergroup|politics,"London, England",groups
+CheshireClub,"Cheshire Club (Cheshire, ca. 1710–1720)",politics|socialclub,"Cheshire, England",groups
+CisalpineCl,"Cisalpine Club (London, 1792-1830)",diningclub|religion,"London, England",groups
+ClaphamSect,"Clapham Sect (Clapham, Surrey, 1792–1815)",peergroup|religion,"Clapham, Surrey, England",groups
+TheClub1764,"The Club [Samuel Johnson] (London, 1764-1784)",diningclub|literature,"London, England",groups
+ClubOf13,"Club of Thirteen (London, 1773-)",socialclub,"London, England",groups
+CoffeePhSoc,"Coffee House Philosophical Society (London, 1780-1787)",debating club|science,"London, England",groups
+CommonRoom,"Common Room (Geneva, 1741-1742)",science|socialclub|travel,"Geneva, Switzerland",groups
+ConClubDublin,"Constitution Club (Dublin, 1765-1774)",politics|socialclub,"Dublin, Ireland",groups
+DemoniacsClub,"Demoniacs Club (Yorkshire, England, 1750s-1760s)",politics|socialclub,"Skelton Castle, Yorkshire, England",groups
+DerbyPhilSoc,"Derby Philosophical Society (Derby, 1783-1858)",learnedsociety|science,"Derby, Derbyshire, England",groups
+DivanClub,"Divan Club (London, 1744-1746)",diningclub|travel,"London, England",groups
+DuDunces,"Dunces of The Dunciad (London, 1728-1743)",literature|peergroup,"London, England",groups
+EastInDir,"East India Company directors (London, 1600-1874)",directors,"London, England",groups
+EclecticSoc,"Eclectic Society (London, 1783-1814)",debatingsociety|religion,"London, England",groups
+EdinPhilSoc,Philosophical Society of Edinburgh (1737–1783),learnedsociety|science,"Edinburgh, Scotland",groups
+EdCaveClub,"Edward Cave's Poetical Club (London, 1747-1749)",diningclub|literature,"London, England",groups
+EgyptSoc,"Egyptian Society (London, 1741-1743)",diningclub|travel,"London, England",groups
+EssexHdClub,"Essex Head Club (London, 1783-1794)",diningclub,"London, England",groups
+EumelianClub,"Eumelian Club (London, 1780s-1800s)",socialclub,"London, England",groups
+ExeterLitSoc,"Exeter Literary Society (Exeter, 1792-ca.1808)",literature|socialclub,"Exeter, Devonshire, England",groups
+FeatherTav,"Feathers Tavern Petitioners (London, 1771-1774)",peergroup|religion,"London, England",groups
+FieldingSubsc,Subscribers to Henry Fielding's Miscellanies (1741-1743),literature|peergroup,England,groups
+FriendsOfLit,"Friends of Literature (London, 1805-1811)",diningclub|literature,"London, England",groups
+FrPeopleSoc,"Friends of the People (London, 1792-95)",politicalsociety|politics,"London, England",groups
+GeologicalSoc,"Geological Society of London (London, 1807-)",learnedsociety|science,"London, England",groups
+GaTrustees,"Georgia Trustees (London, 1732-52)",directors,"London, England",groups
+GirtinsClub,"Girtin's Sketching Club (London, 1799–1801 [1802-04])",finearts|socialclub,"London, England",groups
+GlasgowLS,"Glasgow Literary Society (Glasgow, 1753-1830s)",academic|debating club|literature,"Glasgow, Lanarkshire, Scotland",groups
+GoostreeClub,"Goostree's Club (London, 1780s)",socialclub,"London, England",groups
+GrillClub,"Grillion's Club (London, 1812-)",diningclub,"London, England",groups
+GroseEngr,"Francis Grose engravers (London, 1772-1787)",finearts|peergroup,"London, England",groups
+HackneyPhal,"Hackney Phalanx (Hackney, Middlesex, ca. 1800-1830)",peergroup|religion,"Hackney, Middlesex, England",groups
+HambledonCC,"Hambledon Cricket Club (Hambledon, Hampshire, ca. 1750–ca. 1796)",socialclub|sport,"Hambledon, Hampshire, England",groups
+HanoverClub,"Hanover Club (London, 1712-)",politicalsociety|politics,"London, England",groups
+HollandHouse,"Holland House Circle (London, 1800-1845)",literature|peergroup|politics,"London, England",groups
+HolyClub,"Holy Club (Oxford, ca. 1729–ca. 1738)",academic|religion|socialclub,"Oxford, Oxfordshire, England",groups
+HonWhigClub,"Honest Whig Club (London, 1760s and 70s)",debatingsociety|politics,"London, England",groups
+HysonClub,"Hyson Club (Cambridge, 1757-1770s)",academic|socialclub,"Cambridge, Cambridgeshire, England",groups
+IvyLaneClub,"Ivy Lane Club (London, 1748-1756)",diningclub,"London, England",groups
+JockeyClub,"Jockey Club (London, 1750-)",socialclub|sport,"London, England",groups
+KingOfClubs,"King of Clubs (London, 1798-1820s)",diningclub|politics,"London, England",groups
+KingsInns,"King's Inns, Dublin",law|school,"Dublin, Ireland",groups
+KitCatClub,"Kit-Cat Club (London, 1696-1720)",politics|socialclub,"London, England",groups
+FLS,"Linnean Society (London, 1788-)",learnedsociety|science,"London, England",groups
+LitPhilManch,"Literary and Philosophical Society of Manchester (Manchester, 1781-)",learnedsociety|literature|science,"Manchester, Lancashire, England",groups
+LitSocBombay,"Literary Society of Bombay (Bombay, India 1804-1830)",learnedsociety|literature|travel,"Bombay, India",groups
+LondCorSoc,London Corresponding Society (1792-1799),politicalsociety|politics,"London, England",groups
+LondGreekCom,"London Greek Committee (London, 1823-1826)",philanthropicsociety|politics,"London, England",groups
+LunarSoc,"Lunar Society of Birmingham (Birmingham, 1760s-1780s)",diningclub|science,"Birmingham, Warwickshire, England",groups
+MartynBotan,"Martyn's Botanical Society (London, 1721-26)",learnedsociety|science,"London, England",groups
+MedicalClub,"Medical Club (London, 1741-1750s?)",literature|socialclub,"London, England",groups
+MirrorClub,"Mirror Club (Edinburgh, 1776–1787)",literature|socialclub,"Edinburgh, Scotland",groups
+MonksMedmen,"Monks of Medmenham (Buckinghamshire, 1750s-1770s)",socialclub,"Medmenham, Buckinghamshire, England",groups
+MonksScrew,"Monks of the Screw (Dublin, 1779-89)",politics|socialclub,"Dublin, Ireland",groups
+NelsonsBand,Nelson's band of brothers (1798),peergroup,Great Britain,groups
+NobleCatchClub,"Noblemen and Gentlemen's Catch Club (London, 1761-)",finearts|socialclub,"London, England",groups
+NobodysFriends,"Club of Nobody's Friends (London, 1800-)",diningclub|religion,"London, England",groups
+NonsenseClub,"Nonsense Club (London, 1750-1764)",literature|socialclub,"London, England",groups
+NorwichSoc,"Norwich Society of Artists (Norwich, 1803-1833)",academy|finearts,"Norwich, Norfolk, England",groups
+OctoberClub,"October Club (London, ca. 1711–1714)",politicalsociety|politics,"London, England",groups
+OldCorps,Old Corps Whigs (act. 1742–1762),peergroup|politics,"London, England",groups
+OrientalClub,"Oriental Club (London, 1824-)",socialclub|travel,"London, England",groups
+OutinianSoc,"Outinian Society (London, 1818-25)",debating club,"London, England",groups
+PeterbSoc,"Peterborough Gentlemen's Society (Peterborough, 1730-1740s)",learnedsociety|science,"Peterborough, Northamptonshire, England",groups
+AberdPhilSoc,Philosophical Society of Aberdeen (1758–1773),academic|debatingclub,"Aberdeen, Scotland",groups
+PokerClub1762,"Poker Club (Edinburgh, 1762-1784)",socialclub,"Edinburgh, Scotland",groups
+PolEconClub,"Political Economy Club (London, 1821)",politics|socialclub,"London, England",groups
+RaleighClub,"Raleigh Club (London, 1827-54)",socialclub|travel,"London, England",groups
+RankenianClub,"The Rankenian Club (Edinburgh, 1716-1774)",academic|debatingsociety,"Edinburgh, Scotland",groups
+RevoluSoc,"Revolution Society (London, 1788-1792)",politics|socialclub,"London, England",groups
+RobinHdSoc,"Robin Hood Society (London, 1740s-1779)",debatingsociety,"London, England",groups
+RomanClub,"Roman Club (London, 1765-)",diningclub|travel,"London, England",groups
+RomanClub1720,"Roman Club (London, 1720-1743)",diningclub|finearts|travel,"London, England",groups
+RoseCrownClub,"Rose and Crown Club (London, ca. 1704-1745)",finearts|socialclub,"London, England",groups
+RoxbgClub,"Roxburghe Club (London, 1812-)",learnedsociety|literature,"London, England",groups
+RA,"Royal Academy (London, 1768-)",academy|finearts,"London, England",groups
+RoyalAcMus1719,"Royal Academy of Music (London, England: 1719-1728)",academy|finearts,"London, England",groups
+MRAS,"Royal Asiatic Society of Great Britain and Ireland (London, 1823-)",learnedsociety|literature|travel,"London, England",groups
+RoyalDublinSoc,"Royal Dublin Society (Dublin, 1731-)",finearts|philanthropicsociety,"Dublin, Ireland",groups
+RGS,"Royal Geographical Society (London, 1830-)",learnedsociety|science,"London, England",groups
+MRIA,"Royal Irish Academy (Dublin, 1785-)",learnedsociety|science,"Dublin, Ireland",groups
+MNS,"Royal Numismatic Society (London, 1836-)",finearts|learnedsociety,"London, England",groups
+RPSE,Royal Physical Society of Edinburgh (1771-1965),learnedsociety|science,"Edinburgh, Scotland",groups
+FRS,"Royal Society (London, 1660-)",learnedsociety|science,"London, England",groups
+FRSE,"Royal Society of Edinburgh (Edinburgh, 1783-)",learnedsociety|science,"Edinburgh, Scotland",groups
+RoySocLit,"Royal Society of Literature (London, 1820-)",learnedsociety|literature,"London, England",groups
+RoystonClub,"Royston Club (Royston, Hertfordshire, 1690s-1780s)",politics|socialclub,"Royston, Hertfordshire, England",groups
+RoyalSocClub,"Royal Society Club (London, England)",diningclub|science,"London, England",groups
+StAlbansGr,"St Albans Tavern Group (London, 1784)",politicalsociety|politics,"London, England",groups
+SaltersDeb,"Salters' Hall Debate (London, 1719)",peergroup|religion,"London, England",groups
+ScriblerusClub,"Scriblerus Club (London, 1714)",literature|socialclub,"London, England",groups
+SelectSoc,"Select Society (Edinburgh, 1754-64)",debatingsociety|socialclub,"Edinburgh, Scotland",groups
+SketchingSoc,"Sketching Society (London, 1808-1851)",finearts|socialclub,"London, England",groups
+SmithfieldClub,"Smithfield Club (London, 1798-)",philanthropicsociety,"London, England",groups
+SocNaturalHist,"Society for Promoting Natural History (London, 1781-1822)",learnedsociety|science,"London, England",groups
+FSA,"Society of Antiquaries (London, 1717-)",finearts|learnedsociety|literature,"London, England",groups
+SocArchAntiq,"Society of Architects and Antiquaries (London, 1819-1820s)",diningclub|finearts,"London, England",groups
+SocArtistsGB,"Society of Artists of Great Britain (London, 1760–1791)",academy|finearts,"London, England",groups
+SocConstInf,"Society for Constitutional Information (London, 1780-94)",politicalsociety|politics,"London, England",groups
+SocAbolSlave,"Society for Effecting the Abolition of the Slave Trade (London, 1787-1807)",philanthropicsociety|politics,"London, England",groups
+SocLearning,"Society for the Encouragement of Learning (London, 1735-1749)",philanthropicsociety|science,"London, England",groups
+SocArts,"Society of Arts, Manufactures, and Commerce (London, 1753-)",philanthropicsociety,"London, England",groups
+SocCivEng,"Society of Civil Engineers (London, 1771-)",diningclub|science,"London, England",groups
+SocDilett,"Society of Dilettanti (London, 1734-)",diningclub|finearts|travel,"London, England",groups
+SocGent1750,"Society of Gentleman (London, 1750s-1766)",debatingsociety|socialclub,"London, England",groups
+SocNoviomag,"Society of Noviomagus (London, 1828-1892)",diningclub,"London, England",groups
+SocWCPainter,"Society of Painters in Water Colours (London, 1804-1831)",academy|finearts,"London, England",groups
+SocRomKnights,"Society of Roman Knights (London, 1722-1726)",learnedsociety,"London, England",groups
+SocBears,"Ancient Society of the Bears (London, 1730s-1820s)",diningclub,"London, England",groups
+SocStLuke,"Society of the Virtuosi of St Luke (London, ca. 1689-1743)",finearts|socialclub,"London, England",groups
+SocFriars,"Society the United Friars (Norwich, 1785-1828)",philanthropicsociety|socialclub,"Norwich, Norfolk, England",groups
+SocWIPM,"Society of West India Planters and Merchants (London, 1780-1830s)",politicalsociety|politics,"London, England",groups
+SpaldingSoc,"Spalding Gentlemen's Society (Lincolnshire, 1712-1770)",learnedsociety|science,"Spalding, Lincolnshire, England",groups
+SpeculativeSoc,"Speculative Society (Edinburgh, 1764-)",academic|debatingsociety,"Edinburgh, Scotland",groups
+StMartinAc1720,"St Martin's Lane Academy (London, 1720-1724)",academy|finearts,"London, England",groups
+StMartAc,"St Martin's Lane Academy (London, 1735-1767)",academy|finearts,"London, England",groups
+StationMast,"Stationers' Company: masters (London, 1557-)",directors|literature,"London, England",groups
+StuRevEngr,"Stuart and Revett engravers (London, 1762-1789)",finearts|peergroup,"London, England",groups
+SterneSubsc,Subscribers to works by Laurence Sterne (1760-1769),literature|peergroup,England,groups
+TheGang,"The Gang (London, 1760s-)",diningclub,"London, England",groups
+TomsClub,"Tom's Coffee House Club (London, 1760s-1770s)",socialclub,"London, England",groups
+ToryBrosClub,"Tory Brothers' Club (London, 1711-1713)",politicalsociety|politics,"London, England",groups
+ToxophiliteSoc,"Toxophilite Society (London, 1781-)",socialclub|sport,"London, England",groups
+TravellersClub,"Travellers Club (London, 1819-)",socialclub|travel,"London, England",groups
+TrinityHouse,"Trinity House elder brethren (London, 1514-)",directors,"London, England",groups
+UnanSoc1753,"Unanimous Society (Liverpool, 1753-1770s)",diningclub|socialclub,"Liverpool, Lancashire, England",groups
+UnincreClub,"Unincreasable Club (London, 1780s-1790s)",diningclub,"London, England",groups
+UnionClub,"Union Club (London, 1827–1923)",socialclub,"London, England",groups
+UnitedIrish,"United Irishmen (Ireland, 1791-)",politicalsociety|politics,Ireland,groups
+WhigClub1784,"Whig Club (London, 1784-1800s)",diningclub|politics,"London, England",groups
+WhitesClub,"White's Club (London, 1693-)",socialclub,"London, England",groups
+WildmansClub,"Wildman's Club (London, 1763–1765)",politicalsociety|politics,"London, England",groups
+YorkshAssoc,Yorkshire Association (1779–1785),politicalsociety|politics,"Yorkshire, England",groups
+ZodiacClub,"Zodiac Club (Cambridge University, 1725-1738 fl.)",academic|socialclub,"Cambridge, Cambridgeshire, England",groups
+BritishParl,British House of Commons,government|parliament,"London, England",government
+IrishParl,Irish House of Commons,government|parliament,"Dublin, Ireland",government
+PrivyCnl,Privy Council,government|privy council,"London, England",government
+IrPrivyCnl,Privy Council of Ireland,government|privy council,"Dublin, Ireland",government
+TownshMin1714,Townshend Ministry (1714-1717),government|ministry,"London, England",government
+StanhMin1717,Stanhope-Sunderland Ministry (1717-1718),government|ministry,"London, England",government
+StanhMin1718,Stanhope-Sunderland Ministry (1718-1721),government|ministry,"London, England",government
+WalpoMin1721,Walpole-Townshend Ministry (1721-1730),government|ministry,"London, England",government
+WalpoMin1730,Walpole Ministry (1730-1742),government|ministry,"London, England",government
+CarteretMin1742,Carteret Ministry (1742-1744),government|ministry,"London, England",government
+BroadBotMin1742,Broad Bottom Ministry (1744-1754),government|ministry,"London, England",government
+NewcaMin1754,Newcastle Ministry (1754-1756),government|ministry,"London, England",government
+PittMin1756,Pitt-Devonshire Ministry (1756-1757),government|ministry,"London, England",government
+PittMin1757,Pitt-Newcastle Ministry (1757-1762),government|ministry,"London, England",government
+ButeMin1762,Bute Ministry (1762-1763),government|ministry,"London, England",government
+GrenvMin1763,Grenville Ministry (1763-1765),ministry,"London, England",government
+RockiMin1765,Rockingham Ministry (1765-1766),government|ministry,"London, England",government
+ChathMin1766,Chatham Ministry (1766-1768),government|ministry,"London, England",government
+GraftonMin1768,Grafton Ministry (1768-1770),government|ministry,"London, England",government
+NorthMin1770,North Ministry (1770-1782),government|ministry,"London, England",government
+RockiMin1782,Rockingham Ministry (1782),government|ministry,"London, England",government
+ShelbMin1782,Shelburne Ministry (1782-1783),government|ministry,"London, England",government
+FoxNoMin1783,Fox-North Ministry (1783),government|ministry,"London, England",government
+PittMin1783,Pitt Ministry (1783-1801),government|ministry,"London, England",government
+AddinMin1801,Addington Ministry (1801-1804),government|ministry,"London, England",government
+PittMin1804,Pitt Ministry (1804-1806),government|ministry,"London, England",government
+AllTalMin1806,All the Talents Ministry (1806-1807),government|ministry,"London, England",government
+PortMin1807,Portland Ministry (1807-1809),government|ministry,"London, England",government
+PerceMin1809,Perceval Ministry (1809-1812),government|ministry,"London, England",government
+LiverpMin1812,Liverpool Ministry (1812-1827),government|ministry,"London, England",government
+CanniMin1827,Canning-Goderich Ministry (1827-1828),government|ministry,"London, England",government
+WelliMin1828,Wellington Ministry (1828-1830),government|ministry,"London, England",government
+GreyMin1830,Grey-Melbourne Ministry (1830-1834),government|ministry,"London, England",government
+PeelMin1834,Peel Ministry (1834-1835),government|ministry,"London, England",government
+MelbouMin1835,Melbourne Ministry (1835-1841),government|ministry,"London, England",government
+PeelMin1841,Peel Ministry (1841-1846),government|ministry,"London, England",government
+RusselMin1846,Russell Ministry (1846-1852),government|ministry,"London, England",government
+MPs1715,British Parliament (1715-1722),government|parliament,"London, England",government
+MPs1722,British Parliament (1722-1727),government|parliament,"London, England",government
+MPs1727,British Parliament (1727-1734),government|parliament,"London, England",government
+MPs1734,British Parliament (1734-1741),government|parliament,"London, England",government
+MPs1741,British Parliament (1741-1747),government|parliament,"London, England",government
+MPs1747,British Parliament (1747-1754),government|parliament,"London, England",government
+MPs1754,British Parliament (1754-1761),government|parliament,"London, England",government
+MPs1761,British Parliament (1761-1768),government|parliament,"London, England",government
+MPs1768,British Parliament (1768-1774),government|parliament,"London, England",government
+MPs1774,British Parliament (1774-1780),government|parliament,"London, England",government
+MPs1780,British Parliament (1780-1784),government|parliament,"London, England",government
+MPs1784,British Parliament (1784-1790),government|parliament,"London, England",government
+MPs1790,British Parliament (1790-1796),government|parliament,"London, England",government
+MPs1796,British Parliament (1796-1802),government|parliament,"London, England",government
+MPs1802,British Parliament (1802-1806),government|parliament,"London, England",government
+MPs1806,British Parliament (1806-1807),government|parliament,"London, England",government
+MPs1807,British Parliament (1807-1812),government|parliament,"London, England",government
+MPs1812,British Parliament (1812-1818),government|parliament,"London, England",government
+MPs1818,British Parliament (1818-1820),government|parliament,"London, England",government
+MPs1820,British Parliament (1820-1826),government|parliament,"London, England",government
+MPs1826,British Parliament (1826-1830),government|parliament,"London, England",government
+MPs1830,British Parliament (1830-1831),government|parliament,"London, England",government
+MPs1831,British Parliament (1831-1832),government|parliament,"London, England",government
+IreMPs1715,Irish Parliament (1715-1727),government|parliament,"Dublin, Ireland",government
+IreMPs1727,Irish Parliament (1727-1761),government|parliament,"Dublin, Ireland",government
+IreMPs1761,Irish Parliament (1761-1769),government|parliament,"Dublin, Ireland",government
+IreMPs1769,Irish Parliament (1769-1776),government|parliament,"Dublin, Ireland",government
+IreMPs1776,Irish Parliament (1776-1783),government|parliament,"Dublin, Ireland",government
+IreMPs1783,Irish Parliament (1783-1790),government|parliament,"Dublin, Ireland",government
+IreMPs1790,Irish Parliament (1790-1798),government|parliament,"Dublin, Ireland",government
+IreMPs1798,Irish Parliament (1798-1800),government|parliament,"Dublin, Ireland",government

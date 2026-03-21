@@ -1,0 +1,27 @@
+# README
+
+- `individuals.csv`: information about individuals in the SNiGB data, including their unique SNiGB id and name.
+- `families.csv`: Family information
+	- `id`: SNiGB id of ego.
+	- `name`: Name of relation.
+	- `key`: SNiGB of relation if any.
+	- `relation`: kinship type.
+- `occupations.csv`: Occupation data for individuals in long format so that each occupation type of an individual is a row.
+	- `id`: SNiGB id of ego.
+	- `occupation`: Name of occupation.
+- `organizations.csv`: The organizations found in the data.
+	- `id`: SNiGB id for the organization.
+	- `name`: Name of organization.
+	- `sub_type`: Subcategories of organization with categories divided by the | symbol.
+	- `place`: Location of organization.
+	- `type`: Category of organization.
+- `organizations-memberships.csv`: 
+	- `id`: SNiGB id of ego.
+	- `key`: SNiGB id for the organization.
+	- `name`: Name of organization.
+	- `from`: Year of entry into organization.
+	- `to`:: Year of exit from organization.
+- `associations.csv`: Network data of associations between people in the SNiGB database. Note that the network is undirected, from and to do not indicate a direction of the relationship.
+	- `from`: SNiGB person id for the first person in the relationship.
+	- `to`: SNiGB person id for the person to whom `from` is connected.
+	- `type`: The type of connection.
